@@ -8,7 +8,7 @@ namespace ThrowBestPractice
         {
             try
             {
-                DeviceByZero();
+                DevideByZero();
             }
             catch (Exception ex)
             {
@@ -17,7 +17,7 @@ namespace ThrowBestPractice
             }
         }
 
-        static int DeviceByZero()
+        static int DevideByZero()
         {
             try
             {
